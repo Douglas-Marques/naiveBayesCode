@@ -1,2 +1,2 @@
 # naiveBayesCode
-## Meu primeiro repositório de Machine Learnign
+## Meu primeiro repositório de Machine Learning
